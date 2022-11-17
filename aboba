@@ -1,3 +1,4 @@
 a = int(input())
 print(a, 10)
 print('Hello world!')
+b = str(input())
